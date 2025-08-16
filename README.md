@@ -1,6 +1,6 @@
-- 👋 Hi, I’m DSK
-- 👀 I’m interested in Science, Politics, Philosophies, History, Anthropology,etc,etc,etc...
-- 🌱 I’m currently learning Computer Science and Engineering in Vellore Institute of Technology, Chennai.
-- 💞️ I’m looking to collaborate on anything that I am intersted in.
-- 📫 How to reach me? --> Github
+- 👋 Hi, I’m Kishore DS
+- 👀 I’m interested in Engineering
+- 🌱 I’m currently working as a Data Engineer
+- 💞️ I’m looking to collaborate on anything and everything
+- 📫 How to reach me? linkedin.com/in/kishore-ds-1332221ab
 
